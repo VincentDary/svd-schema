@@ -8,6 +8,6 @@ These schemas provide validation rules and structure definitions for creating an
 ## Contents
 
 This repository contains the XSD schema files for multiple CMSIS-SVD specification versions.
-XSD schema files use the `CMSIS-SVD_*.xsd` name format where the wildcard is the version of the corresponding standard.
+XSD schema files are stored in the `schemas/` folder and use the `CMSIS-SVD_*.xsd` name format where the wildcard is the version of the corresponding standard.
 
 The `metadata.txt` file contains the source URLs for each schema file.
